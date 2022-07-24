@@ -1,0 +1,3 @@
+sdsd.c:205:8:MY_ROTARY_Init_Strobed	40	static
+sdsd.c:267:11:MY_ROTARY_GetEncoderEvent	16	static
+sdsd.c:291:10:MY_ROTARY_SET_LEDS	40	static

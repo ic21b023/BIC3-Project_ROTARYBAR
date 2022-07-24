@@ -1,0 +1,3 @@
+clipboards_conf.c:139:7:MY_CLIPBOARD_Init	24	static
+clipboards_conf.c:176:7:MY_CLIPBOARD_SPI_TX	24	static
+clipboards_conf.c:206:10:get_value_bitpositions	16	static
